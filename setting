@@ -1,0 +1,16 @@
+1. Vscode 를 다운받기
+2. Vscode 확장 설치( juypter, python, python env manger)
+3. Brew를 다운받기
+4. Brew를 다운받은 후 terminal로 git을 다운받기
+5. 터미널 git에서 이메일과 닉네임 설정 
+6. Vscode에 GitHub 로그인하기
+7. GitHub repository 생성하기
+8. Vscode 새 창에서 source 제어부분에 git clone에서 자기 레포지토리 가져오기
+9. 테스트 커밋하기
+10. Miniforge3 설치하기
+11. 새로운 환경생성(conda create -n 환경이름 python = 파이썬버전)
+12. Conda activate 환경이름 에서 tensorflow, sklearn, pandas, matplotlib, seaborn, juypter 설치(tensor flow는 인터넷 명령모음으로 설치)
+13. ipython 커널 생성하기(python -m ipykernel install --user --name=환경이름)
+14. Juypter lab실행해서  import를 테스트해본다
+15. Vscode에서 command+shift+p를 누르면 python select interpreter에서 내가 설치한 환경의 파이썬 가져오기
+16. Vscode에서 ipynb 실행해보기
