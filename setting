@@ -9,8 +9,8 @@
 9. 테스트 커밋하기
 10. Miniforge3 설치하기
 11. 새로운 환경생성(conda create -n 환경이름 python = 파이썬버전)
-12. Conda activate 환경이름 에서 tensorflow, sklearn, pandas, matplotlib, seaborn, juypter 설치(tensor flow는 인터넷 명령모음으로 설치)
+12. Conda activate 환경이름 에서 tensorflow, sklearn, pandas, matplotlib, seaborn, jupyter 설치(tensor flow는 인터넷 명령모음으로 설치)
 13. ipython 커널 생성하기(python -m ipykernel install --user --name=환경이름)
-14. Juypter lab실행해서  import를 테스트해본다
+14. Jupyter lab실행해서  import를 테스트해본다
 15. Vscode에서 command+shift+p를 누르면 python select interpreter에서 내가 설치한 환경의 파이썬 가져오기
 16. Vscode에서 ipynb 실행해보기
